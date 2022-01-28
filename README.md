@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Numero3
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning UIKit, firebase
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me Discord : Numero3#6019
 
