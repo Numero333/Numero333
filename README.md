@@ -3,8 +3,6 @@ Je suis un développeur iOs junior passionné, diplômé en tant que full stack 
 
 #### Compétences:
 
-En tant que développeur iOs junior, j'ai acquis les compétences suivantes :
-
 Programmation en Swift
 Utilisation de Xcode
 Conception d'interfaces utilisateur
