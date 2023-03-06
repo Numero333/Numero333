@@ -13,8 +13,11 @@ En tant que full stack web développeur, j'ai également acquis les compétences
 <p>
 
 Programmation en HTML, CSS et JavaScript
+  
 Utilisation de frameworks tels que React
+  
 Utilisation de bases de données
+  
 Utilisation de langages de serveur tels que Node.js
   
 </p>
