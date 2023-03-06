@@ -1,7 +1,7 @@
 ### Bienvenue !
 Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
 
-## Compétences:
+#### Compétences:
 
 En tant que développeur iOs junior, j'ai acquis les compétences suivantes :
 
@@ -17,11 +17,11 @@ Utilisation de frameworks tels que React
 Utilisation de bases de données
 Utilisation de langages de serveur tels que Node.js
 
-## Projets
+#### Projets
 
 J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tant que développeur iOs junior et full stack web développeur. Voici quelques exemples :
 
-iOs : 
+##### iOs : 
 
 MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
@@ -31,7 +31,7 @@ ME-Kit : Apple BootCamp projet, permet de gérer son entreprise, information rel
 
 Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situation de danger ou de besoin lors d'un trajet piéton, possibilité d'alerté les utilisateurs si on est suivi par exemple.
 
-Web :
+##### Web :
 
 Kasa : est un site web de location de logements entre particuliers.
 
