@@ -1,4 +1,4 @@
-Bienvenue sur mon GitHub ! Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
+# Bienvenue sur mon GitHub ! Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
 
 # Compétences:
 
@@ -23,17 +23,25 @@ J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tan
 iOs : 
 
 MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
+
 Pomodoro : J'ai développé une application de productivité basé sur le principe pomodoro, l'application permet de définir des temps de travail, des temps de pauses.
+
 ME-Kit : Apple BootCamp projet, permet de gérer son entreprise, information relative a l'entreprise, calcule des frais.
+
 Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situation de danger ou de besoin lors d'un trajet piéton, possibilité d'alerté les utilisateurs si on est suivi par exemple.
 
 Web :
 
 Kasa : est un site web de location de logements entre particuliers.
+
 Piiquante : est une application web de critique des sauces piquantes.
+
 Kanap : est un site web de commande de canapé.
+
 La Panthere : SEO pour un site web design, gestion accesibilité.
+
 OhMyFood : est un site web de réservation de menus dans des restaurants gastronomiques.
+
 Booki : est un site web qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 
