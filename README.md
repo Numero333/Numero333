@@ -27,9 +27,7 @@ Utilisation de langages de serveur tels que Node.js
 
 J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tant que développeur iOs junior et full stack web développeur. Voici quelques exemples :
 
-##### iOs : 
-
-<details><summary>Voir</summary>
+<details><summary>iOs</summary>
 <p>
 
 MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
@@ -43,9 +41,7 @@ Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situati
 </p>
 </details>
 
-##### Web :
-
-<details><summary>Voir</summary>
+<details><summary>Web</summary>
 <p>
   
 Kasa : est un site web de location de logements entre particuliers.
