@@ -40,7 +40,6 @@ Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situati
   
 </p>
 </details>
-
 <details><summary>Web</summary>
 <p>
   
