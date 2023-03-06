@@ -1,5 +1,4 @@
-### Bienvenue !
-Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
+### Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
 
 #### Compétences:
 
@@ -10,10 +9,16 @@ Intégration de services tiers tels que Firebase
 
 En tant que full stack web développeur, j'ai également acquis les compétences suivantes :
 
+<details><summary>Voir</summary>
+<p>
+
 Programmation en HTML, CSS et JavaScript
 Utilisation de frameworks tels que React
 Utilisation de bases de données
 Utilisation de langages de serveur tels que Node.js
+  
+</p>
+</details>
 
 #### Projets
 
