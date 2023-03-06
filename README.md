@@ -21,7 +21,8 @@ J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tan
 
 ##### iOs : 
 
-
+<details><summary>Voir</summary>
+<p>
 
 MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
@@ -30,6 +31,9 @@ Pomodoro : J'ai développé une application de productivité basé sur le princi
 ME-Kit : Apple BootCamp projet, permet de gérer son entreprise, information relative a l'entreprise, calcule des frais.
 
 Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situation de danger ou de besoin lors d'un trajet piéton, possibilité d'alerté les utilisateurs si on est suivi par exemple.
+  
+</p>
+</details>
 
 ##### Web :
 
