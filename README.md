@@ -66,12 +66,6 @@ Je suis également intéressé par l'apprentissage de nouvelles technologies et 
 
 Merci de prendre le temps de parcourir ma présentation GitHub. N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets potentiels.
 
-- 👋 Hi, I’m @Numero3
-- 👀 I’m interested in iOS and Web development
-- 🌱 I’m currently learning MVVM, Javascript
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me Discord : Numero3#6019
-
 <!---
 Numero333/Numero333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
