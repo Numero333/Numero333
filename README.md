@@ -1,6 +1,7 @@
-# Bienvenue sur mon GitHub ! Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
+### Bienvenue !
+Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
 
-# Compétences:
+## Compétences:
 
 En tant que développeur iOs junior, j'ai acquis les compétences suivantes :
 
@@ -16,7 +17,7 @@ Utilisation de frameworks tels que React
 Utilisation de bases de données
 Utilisation de langages de serveur tels que Node.js
 
-# Projets
+## Projets
 
 J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tant que développeur iOs junior et full stack web développeur. Voici quelques exemples :
 
