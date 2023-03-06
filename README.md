@@ -21,6 +21,8 @@ J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tan
 
 ##### iOs : 
 
+
+
 MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
 Pomodoro : J'ai développé une application de productivité basé sur le principe pomodoro, l'application permet de définir des temps de travail, des temps de pauses.
@@ -31,6 +33,9 @@ Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situati
 
 ##### Web :
 
+<details><summary>Voir</summary>
+<p>
+  
 Kasa : est un site web de location de logements entre particuliers.
 
 Piiquante : est une application web de critique des sauces piquantes.
@@ -42,6 +47,9 @@ La Panthere : SEO pour un site web design, gestion accesibilité.
 OhMyFood : est un site web de réservation de menus dans des restaurants gastronomiques.
 
 Booki : est un site web qui permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+
+</p>
+</details>
 
 
 En tant que développeur iOs junior, je suis passionné par l'innovation et l'amélioration de l'expérience utilisateur. J'espère pouvoir travailler sur des projets stimulants et innovants qui me permettront d'affiner mes compétences et de relever de nouveaux défis.
