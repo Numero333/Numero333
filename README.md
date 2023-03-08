@@ -30,9 +30,9 @@ J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tan
 <details><summary>iOs</summary>
 <p>
 
-MonLoulou : Application pour les ballades avec son chien, qui permet de savoir a les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
+MonLoulou : Application pour les ballades avec son chien, qui permet d'avoir des informations précises sur les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
-Pomodoro : J'ai développé une application de productivité basé sur le principe pomodoro, l'application permet de définir des temps de travail, des temps de pauses.
+Pomodoro : J'ai développé une application de productivité basé sur le principe pomodoro, l'application permet de définir des temps de travail, des temps de pauses en utilisant des timers.
 
 ME-Kit : Apple BootCamp projet, permet de gérer son entreprise, information relative a l'entreprise, calcule des frais.
 
