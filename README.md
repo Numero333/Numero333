@@ -59,9 +59,7 @@ Booki : est un site web qui permet aux usagers de trouver des hébergements et d
 </details>
 
 
-En tant que développeur iOs junior, je suis passionné par l'innovation et l'amélioration de l'expérience utilisateur. J'espère pouvoir travailler sur des projets stimulants et innovants qui me permettront d'affiner mes compétences et de relever de nouveaux défis.
-
-Je suis également intéressé par l'apprentissage de nouvelles technologies et le développement de mes compétences en tant que développeur. J'espère travailler avec des équipes passionnées qui partageront mes valeurs et me pousseront à me surpasser.
+Passionné par l'innovation et l'amélioration de l'expérience utilisateur. J'espère pouvoir travailler sur des projets stimulants et innovants qui me permettront d'affiner mes compétences et de relever de nouveaux challenge.
 
 Merci de prendre le temps de parcourir ma présentation GitHub. N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets potentiels.
 
