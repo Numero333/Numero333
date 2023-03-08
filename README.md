@@ -1,5 +1,4 @@
 ### Je suis un développeur iOs junior passionné.
-#### Voici un aperçu de mes projets
 
 #### Projets
 
