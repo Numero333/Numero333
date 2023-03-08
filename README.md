@@ -1,4 +1,4 @@
-#### Je suis un développeur iOs junior passionné, diplômé en tant que full stack web développeur. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
+#### Je suis un développeur iOs junior passionné. Voici un aperçu de mes compétences, de mes projets et de ce que j'espère accomplir en tant que développeur.
 
 #### Compétences:
 
