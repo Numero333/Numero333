@@ -1,4 +1,5 @@
-### Je suis un développeur iOs junior passionné. Voici un aperçu de mes compétences et de mes projets 
+### Je suis un développeur iOs junior passionné.
+#### Voici un aperçu de mes compétences et de mes projets
 
 #### Compétences:
 
