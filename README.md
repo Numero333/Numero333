@@ -1,28 +1,5 @@
 ### Je suis un développeur iOs junior passionné.
-#### Voici un aperçu de mes compétences et de mes projets
-
-#### Compétences:
-
-Programmation en Swift
-Utilisation de Xcode
-Conception d'interfaces utilisateur
-Intégration de services tiers tels que Firebase
-
-En tant que full stack web développeur, j'ai également acquis les compétences suivantes :
-
-<details><summary>Voir</summary>
-<p>
-
-Programmation en HTML, CSS et JavaScript
-  
-Utilisation de frameworks tels que React
-  
-Utilisation de bases de données
-  
-Utilisation de langages de serveur tels que Node.js
-  
-</p>
-</details>
+#### Voici un aperçu de mes projets
 
 #### Projets
 
