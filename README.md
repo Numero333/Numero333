@@ -1,8 +1,8 @@
-### Je suis un développeur iOs junior passionné.
+### Développeur iOs junior passionné.
 
 #### Projets
 
-J'ai travaillé sur plusieurs projets qui ont démontré mes compétences en tant que développeur iOs junior et full stack web développeur. Voici quelques exemples :
+J'ai travaillé sur plusieurs projets, voici quelques exemples :
 
 <details><summary>iOs</summary>
 <p>
