@@ -7,17 +7,17 @@ J'ai travaillé sur plusieurs projets, voici quelques exemples :
 <details><summary>iOs</summary>
 <p>
 
-Doc-AI : Exploration de documents grace l'ia, réponse sur le document, synthétésisation du/des documents, traduction automatique.
+Doc-AI : Exploration de documents grace l'ia, réponse sur le document, création du résumé, traduction automatique.
 
-WoofCompanion : Application d'aides aux premières ballades canines et rencontres.
+WoofCompanion : Application d'aides aux premières balades canines et rencontres.
 
-GainGuru : Application pour la prise de poid, calcul prévisionelle.
+GainGuru : Application pour la prise de poids, calcul prévisionnelle.
 
 Baluchon : Application de voyage, conversion, traduction, météo.
 
-Calculatrice : Application visant a reproduire une calculatrice.
+Calculatrice : Application reproduction d'une calculatrice.
 
-Layout-Pic : Application de layout pour création de montages photos.
+Layout-Pic : Application de layout pour la création de montages photos.
 
 Warrior : RPG fantasy game.
 
