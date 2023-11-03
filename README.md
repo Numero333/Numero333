@@ -11,6 +11,16 @@ Doc-AI : Exploration de documents grace l'ia, réponse sur le document, synthét
 
 WoofCompanion : Application d'aides aux premières ballades canines et rencontres.
 
+GainGuru : Application pour la prise de poid, calcul prévisionelle.
+
+Baluchon : Application de voyage, conversion, traduction, météo.
+
+Calculatrice : Application visant a reproduire une calculatrice.
+
+Layout-Pic : Application de layout pour création de montages photos.
+
+Warrior : RPG fantasy game.
+
 MonLoulou : Application pour les ballades avec son chien, qui permet d'avoir des informations précises sur les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
 Pomodoro : J'ai développé une application de productivité basé sur le principe pomodoro, l'application permet de définir des temps de travail, des temps de pauses en utilisant des timers.
