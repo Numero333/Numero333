@@ -1,4 +1,4 @@
-### Bienvenue ! Je suis un développeur iOs passionné
+### Bienvenue ! Je suis un développeur iOS passionné
 
 #### Projets
 
@@ -6,6 +6,10 @@ J'ai travaillé sur plusieurs projets, voici quelques exemples :
 
 <details><summary>iOs</summary>
 <p>
+
+Doc-AI : Exploration de documents grace l'ia, réponse sur le document, synthétésisation du/des documents, traduction automatique.
+
+WoofCompanion : Application d'aides aux premières ballades canines et rencontres.
 
 MonLoulou : Application pour les ballades avec son chien, qui permet d'avoir des informations précises sur les horaires auquelles le chien a été sorti combien de temps, sur quel distance, l'application permet de voir la météo et de programmer des rappels.
 
@@ -19,6 +23,8 @@ Helpr : Apple BootCamp projet, permet de demander de l'aide si on est en situati
 </details>
 <details><summary>Web</summary>
 <p>
+
+Crèche : SEO pour une micro-creche, gestion site et ADS.
   
 Kasa : est un site web de location de logements entre particuliers.
 
