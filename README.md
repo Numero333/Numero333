@@ -1,4 +1,4 @@
-### Bienvenue ! Je suis un développeur iOS passionné
+### Bienvenue ! Je suis un développeur iOS
 
 #### Projets
 
