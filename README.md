@@ -24,6 +24,7 @@ Voici une sélection de mes projets personnels et professionnels !
 <details>
 <summary>🌐 Web</summary>
 <p>
+  
 *   **Cocoon**: SEO d'une micro-creche, et Campagne Google Ads.
 *   **Kasa**: Plateforme de location de logements entre particuliers.
 *   **Piiquante**: Site de critique de sauces piquantes, permettant aux utilisateurs de partager leurs avis.
