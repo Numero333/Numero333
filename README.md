@@ -1,7 +1,7 @@
 Bienvenue sur mon profil GitHub ! 👋
 ------------------------------------
 
-Je suis un développeur iOS, parssioné par l'innovation et l'amélioration de l'expérience utilisateur. 
+Je suis un développeur iOS, passionné par l'innovation et l'amélioration de l'expérience utilisateur. 
 Je suis constamment à la recherche de projets stimulants qui me permettront d'affiner mes compétences et de relever de nouveaux défis.
 
 ### 💼 Projets phares
